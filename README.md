@@ -1,2 +1,2 @@
 # hello-world
-learning github repository
+learning github repository, one little trick at a time.
